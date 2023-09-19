@@ -21,7 +21,7 @@ Hi!
 
 I am a Ph.D. candidate at the Department of Political Science, University of Gothenburg. In my thesis, I study the determinants and effects of government responsiveness to protest. The first paper for my thesis has been published in _Comparative Political Studies_ and hopefully, more is to come! 
 
-Besides this ongoing work, I have also published on political biases in evaluations of International Organizations in the journals Review of International Organization and Public Administration Review. 
+Besides this ongoing work, I have also published on political biases in evaluations of International Organizations in the journals _Review of International Organization_ and _Public Administration Review_. 
 
 To work on my broad research agenda, I employ a variety of quantitative and computational methods, such as econometrics, survey experiments, and machine learning.
 
