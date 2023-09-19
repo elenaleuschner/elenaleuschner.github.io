@@ -17,8 +17,14 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a PhD candidate at the Department of Political Science at the University of Gothenburg since 2020. I study the political impact of protests by examining how protest dynamics unfold, how governments accommodate protests, and what effects these accommodations have. Hereby, I employ quantitative and computational methods to advance the study of protests as a form of contentious action and popular political behavior.
+Hi! 
 
-Further, I am also a research fellow at the University of Konstanz in the research project "The Politics of Evaluation in International Organizations" at the chair of Professor Steffen Eckhard: https://www.polver.uni-konstanz.de/eckhard/research/current-research-projects/the-politics-of-evaluation-in-international-organizations/
+I am a Ph.D. candidate at the Department of Political Science, University of Gothenburg. In my thesis, I study the determinants and effects of government responsiveness to protest. The first paper for my thesis has been published in _Comparative Political Studies_ and hopefully, more is to come! 
 
-I hold two Master's degrees from the universities of Konstanz and Gothenburg. For my Bachelor studies, I graduated from the University of Konstanz.
+Besides this ongoing work, I have also published on political biases in evaluations of International Organizations in the journals Review of International Organization and Public Administration Review. 
+
+To work on my broad research agenda, I employ a variety of quantitative and computational methods, such as econometrics, survey experiments, and machine learning.
+
+Before starting my Ph.D., I graduated from two Master's programs at the universities of Konstanz and Gothenburg.
+
+Have a look around and feel free to reach out!
