@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi! 
 
-I am a Ph.D. candidate at the Department of Political Science, University of Gothenburg where I study the causes and consequences of government responsiveness to protest. The first paper for my thesis has been published in _Comparative Political Studies_ and hopefully, more is to come! 
+I am a Ph.D. candidate at the Department of Political Science, University of Gothenburg where I study the causes and consequences of government responsiveness to protest. First papers for my thesis have been published in highly ranked peer-reviewed journals, such as _Comparative Political Studies_ and _Political Behavior_, and more is to come! 
 
 Besides this ongoing work, I have also published on political biases in evaluations of International Organizations in the journals _Review of International Organization_ and _Public Administration Review_. 
 
