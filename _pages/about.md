@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Box 711</p>
-    <p>40530 Gothenburg, Sweden</p>
+    <p>Room 223</p>
+    <p>Scharnhorststraße 100</p>
+    <p>D-48151 Münster</p>
+    <p>elena.leuschner@uni-muenster.de</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
