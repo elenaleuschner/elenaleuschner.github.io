@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My publications in chronological order. My works in progress are listen on my CV.
+description: My publications in chronological order. My works in progress are listed on my CV.
 nav: true
 nav_order: 1
 ---
